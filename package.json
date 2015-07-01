@@ -1,0 +1,29 @@
+{
+  "name": "iBlog",
+  "version": "1.0.0",
+  "description": "Bianshifeng's blog",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bianshifeng/iBlog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "blog"
+  ],
+  "author": "bianshifeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bianshifeng/iBlog/issues"
+  },
+  "homepage": "https://github.com/bianshifeng/iBlog",
+  "dependencies": {
+    "mongoose": "^4.0.6"
+  }
+}
